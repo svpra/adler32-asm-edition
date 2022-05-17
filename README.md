@@ -3,10 +3,9 @@
 My implement of adler32 algorithm in x86 assembler
 
 ### What is Adler32?
-Adler32 in C:
 
 ```
-code block
+Adler32 in C
 ```
 ```C
 uint32_t adler32( const unsigned char* buf, size_t buf_length )
