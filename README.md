@@ -1,6 +1,6 @@
 # adler32-asm-edition
 
-My implement of adler32 algorithm in x86 assembler
+My implement of adler32 algorithm in x86 assembler (not many comments)
 
 ### What is Adler32?
 
