@@ -22,4 +22,4 @@ uint32_t adler32( const unsigned char* buf, size_t buf_length )
  }
 ```
 
-##### [recursion :)]
+##### [recursion :)](https://svpra.ml/adler32-asm-edition)
